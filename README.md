@@ -1,4 +1,5 @@
-👋 Hello World, I'm Henrique Macedo da Silva!
+## 👋 Hello World, I'm Henrique Macedo da Silva!
+
 
 ## 👨‍💻 About Me
 🎓 IT student passionate about technology and coding.  
